@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "/Users/sanbo/.ohos/config/auto_debug_wechatdemo_com.example.wechatdemo_70086000207587311.cer",
+          "storePassword": "0000001BC10BFC26E1782E1511C77FD26FEB154C715BDAD4A6BDB2506D2172F54A31830F298C6C0600373F",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B50CA72F9659F45DE77BD34BAD1C8E7F70608C4C9C928A6F72C305F362FDF50B00554A43DA3CDCA",
+          "profile": "/Users/sanbo/.ohos/config/auto_debug_wechatdemo_com.example.wechatdemo_70086000207587311.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "/Users/sanbo/.ohos/config/auto_debug_wechatdemo_com.example.wechatdemo_70086000207587311.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

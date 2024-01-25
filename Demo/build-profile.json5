@@ -1,6 +1,20 @@
 {
   "app": {
-    "signingConfigs": [],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "/Users/sanbo/.ohos/config/auto_debug_Demo_com.example.demo_70086000207587311.cer",
+          "storePassword": "0000001B988DE5CEDDB03082FBDD2A7D123C9BB182745416E9C2891092ACFEFA6C64B3E723675632F4329F",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B797FC1A262712C3011AEDBC6EC448CCFFE9CD570CCAFA9EB38DE67D7326AFE13101156586815DC",
+          "profile": "/Users/sanbo/.ohos/config/auto_debug_Demo_com.example.demo_70086000207587311.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "/Users/sanbo/.ohos/config/auto_debug_Demo_com.example.demo_70086000207587311.p12"
+        }
+      }
+    ],
     "compileSdkVersion": 9,
     "compatibleSdkVersion": 9,
     "products": [
