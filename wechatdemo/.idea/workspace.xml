@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b27a32b3-4222-42ff-b7a1-de2e8525f5ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo/entry/src/main/ets/pages/Unit8ArrayUtils.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/build-profile.json5" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/build-profile.json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/entry/oh-package.json5" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/entry/oh-package.json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/entry/src/main/ets/entryability/EntryAbility.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/entry/src/main/ets/entryability/EntryAbility.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/entry/src/main/ets/pages/Index.ets" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/entry/src/main/ets/pages/Index.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/entry/src/main/ets/pages/Secend.ets" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/entry/src/main/ets/pages/Secend.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/entry/src/main/module.json5" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/entry/src/main/module.json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/entry/src/main/resources/base/element/string.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/entry/src/main/resources/base/element/string.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/entry/src/main/resources/zh_CN/element/string.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/entry/src/main/resources/zh_CN/element/string.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/oh-package.json5" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/oh-package.json5" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ArkTS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZC7ghtRkN3h7T0UYjUzCdyw9MB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "auto_debug_bundleName": "00000026C9409188CCE3A33F2A7DE168E120B47096FD11E55A6FCB852DE06C83FDB8DAD9900FDD5059B483B385B3935FAFBA3D57562F",
+    "auto_debug_cert_list": "000000237EC8D841E32D0784199EBF5F5E6FEDD0CCAE7859F2640CC54F2539B2F579BC0A9021A17F5C9D18B510F860E50094DD",
+    "auto_debug_device_list": "0000003501A386D02A2AB30817E30F43A58150AEF32EAAAD2241DE93CF1F46C0D2724D76DC6DF019C2381DE12A9CA6D5E2A6EA78C145DC9387ACC770394941F99463DCC40F",
+    "auto_debug_package_name": "00000026933270680081E17D8DAC183B3C7253E937A4997CDEC090E4744776D753C299E700DECF5F0D25769AB3AF2BA26789F2857458",
+    "auto_debug_team_id": "0000002199142B72E59754F60E124DB278BE87D55811B16D4F852619D3E3585A053A88F5DA070BF3C19713B8FA913958D4",
+    "last_opened_file_path": "/Users/sanbo/Desktop/hormony_learn/wechatdemo",
+    "settings.editor.selected.configurable": "http.proxy"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/entry/src/main/ets/pages/Contact" />
+      <recent name="$PROJECT_DIR$/entry/src/main/ets/pages/Home" />
+      <recent name="$PROJECT_DIR$/entry/src/main/ets/pages/My" />
+      <recent name="$PROJECT_DIR$/entry/src/main/ets/pages/Discover" />
+    </key>
+  </component>
+  <component name="RunManager" selected="OpenHarmony App.entry">
+    <configuration name="entry" type="HotReLoadTask" factoryName="Hot Reload">
+      <SYMBOL_DIRS>[]</SYMBOL_DIRS>
+      <MODULE_NAME />
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <REINSTALL_APPLICATION>false</REINSTALL_APPLICATION>
+      <DEBUGGER_TYPE>Detect Automatically</DEBUGGER_TYPE>
+      <MULTI_HAP_MODULE_DATA>[]</MULTI_HAP_MODULE_DATA>
+      <SHOW_STATIC_VARIABLES>true</SHOW_STATIC_VARIABLES>
+      <LOGGING_TARGET_CHANNELS />
+      <ASAN_ENABLE_DATA>false</ASAN_ENABLE_DATA>
+      <USER_POST_ATTACH_COMMANDS>[]</USER_POST_ATTACH_COMMANDS>
+      <USER_STARTUP_COMMANDS>[]</USER_STARTUP_COMMANDS>
+      <HOT_RELOAD_MODULE_NAME>entry</HOT_RELOAD_MODULE_NAME>
+      <method v="2">
+        <option name="Build.Hvigor.HotReloadBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="entry" type="OhosDebugTask" factoryName="OpenHarmony App">
+      <SYMBOL_DIRS>[]</SYMBOL_DIRS>
+      <MODULE_NAME>entry</MODULE_NAME>
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <REINSTALL_APPLICATION>false</REINSTALL_APPLICATION>
+      <DEBUGGER_TYPE>Detect Automatically</DEBUGGER_TYPE>
+      <MULTI_HAP_MODULE_DATA>[]</MULTI_HAP_MODULE_DATA>
+      <SHOW_STATIC_VARIABLES>true</SHOW_STATIC_VARIABLES>
+      <LOGGING_TARGET_CHANNELS />
+      <ASAN_ENABLE_DATA>false</ASAN_ENABLE_DATA>
+      <USER_POST_ATTACH_COMMANDS>[]</USER_POST_ATTACH_COMMANDS>
+      <USER_STARTUP_COMMANDS>[]</USER_STARTUP_COMMANDS>
+      <method v="2">
+        <option name="Build.Hvigor.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>

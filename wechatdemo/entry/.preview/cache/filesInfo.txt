@@ -1,0 +1,8 @@
+/Users/changwei/DevEcoStudioProjects/wechatdemo/entry/.preview/cache/entry/src/main/ets/pages/Index.js;com.example.wechatdemo/entry/ets/pages/Index;esm;entry/src/main/ets/pages/Index.ets;entry
+/Users/changwei/DevEcoStudioProjects/wechatdemo/entry/.preview/cache/entry/src/main/ets/entryability/EntryAbility.js;com.example.wechatdemo/entry/ets/entryability/EntryAbility;esm;entry/src/main/ets/entryability/EntryAbility.ts;entry
+/Users/changwei/DevEcoStudioProjects/wechatdemo/entry/.preview/cache/entry/src/main/ets/pages/Home/Home.js;com.example.wechatdemo/entry/ets/pages/Home/Home;esm;entry/src/main/ets/pages/Home/Home.ets;entry
+/Users/changwei/DevEcoStudioProjects/wechatdemo/entry/.preview/cache/entry/src/main/ets/pages/Home/Chat.js;com.example.wechatdemo/entry/ets/pages/Home/Chat;esm;entry/src/main/ets/pages/Home/Chat.ets;entry
+/Users/changwei/DevEcoStudioProjects/wechatdemo/entry/.preview/cache/entry/src/main/ets/pages/My/My.js;com.example.wechatdemo/entry/ets/pages/My/My;esm;entry/src/main/ets/pages/My/My.ets;entry
+/Users/changwei/DevEcoStudioProjects/wechatdemo/entry/.preview/cache/entry/src/main/ets/pages/Contact/Contacts.js;com.example.wechatdemo/entry/ets/pages/Contact/Contacts;esm;entry/src/main/ets/pages/Contact/Contacts.ets;entry
+/Users/changwei/DevEcoStudioProjects/wechatdemo/entry/.preview/cache/entry/src/main/ets/pages/Discover/Discover.js;com.example.wechatdemo/entry/ets/pages/Discover/Discover;esm;entry/src/main/ets/pages/Discover/Discover.ets;entry
+/Users/changwei/DevEcoStudioProjects/wechatdemo/entry/.preview/cache/entry/src/main/ets/pages/Contact/PersonalPage.js;com.example.wechatdemo/entry/ets/pages/Contact/PersonalPage;esm;entry/src/main/ets/pages/Contact/PersonalPage.ets;entry

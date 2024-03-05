@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/A_Hello",
+    "pages/B_DeclarativeUI",
+    "pages/C_Builder",
+    "pages/D_StylesDecoration",
+    "pages/E_ExtendDecoration",
+    "pages/F_component",
+    "pages/G_RenderControl",
+    "pages/H_ArkUI",
+    "pages/H_ArkUI",
+    "pages/I_request"
+  ]
+}

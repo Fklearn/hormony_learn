@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45dc1e6f-24b9-4e53-b7c6-f65dde5b2c1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/Unit8ArrayUtils.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-profile.json5" beforeDir="false" afterPath="$PROJECT_DIR$/build-profile.json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/oh-package.json5" beforeDir="false" afterPath="$PROJECT_DIR$/entry/oh-package.json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/entryability/EntryAbility.ts" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/entryability/EntryAbility.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/Index.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/Index.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/Secend.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/Secend.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/module.json5" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/module.json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/base/element/string.json" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/resources/base/element/string.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/zh_CN/element/string.json" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/resources/zh_CN/element/string.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oh-package.json5" beforeDir="false" afterPath="$PROJECT_DIR$/oh-package.json5" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ArkTS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YsQ8ghzGwVNabRPMrzVXZB4UOa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;auto_debug_bundleName&quot;: &quot;000000201BA7E07099DA984323B06A5AC9C6989E939A4E3A3D74083AAE17268C4609C7AE268EA20B602BE984FFA33857&quot;,
+    &quot;auto_debug_cert_list&quot;: &quot;00000023274953722F636A7FDCC30A740B66F99C1A2558A28F71A44E6182DD91E85A4D75489EA4597F7BEE2DE20B75B1E987B6&quot;,
+    &quot;auto_debug_device_list&quot;: &quot;00000035433124644B0028436A218BDBAE42EDD2473001DAC37E29D7C62F3B04DCE1E548FE5CABD3B01F2F4B244BBFC6B7D3D17190B536F7AF9CEB347D0203D60CD66101C1&quot;,
+    &quot;auto_debug_package_name&quot;: &quot;000000208378B83F7ABE9D92F54BCE9E71BD85E2815DA7F4A6ACE7F8D4B37D03F7FAE1CC71BE29F32441299915C6E2BA&quot;,
+    &quot;auto_debug_team_id&quot;: &quot;000000219456F3FAD1EC8A08FD26FF186C6C9CB9CE7948FCA4BF01E2945B6DFBC955E8D96260C38420DC93FC25F37C8CE4&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sanbo/Desktop/hormony_learn/Demo&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;IntelliLang.Configuration&quot;
+  }
+}</component>
+  <component name="RunManager" selected="OpenHarmony App.entry">
+    <configuration name="entry" type="HotReLoadTask" factoryName="Hot Reload">
+      <SYMBOL_DIRS>[]</SYMBOL_DIRS>
+      <MODULE_NAME />
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <REINSTALL_APPLICATION>false</REINSTALL_APPLICATION>
+      <DEBUGGER_TYPE>Detect Automatically</DEBUGGER_TYPE>
+      <MULTI_HAP_MODULE_DATA>[]</MULTI_HAP_MODULE_DATA>
+      <SHOW_STATIC_VARIABLES>true</SHOW_STATIC_VARIABLES>
+      <LOGGING_TARGET_CHANNELS />
+      <ASAN_ENABLE_DATA>false</ASAN_ENABLE_DATA>
+      <USER_POST_ATTACH_COMMANDS>[]</USER_POST_ATTACH_COMMANDS>
+      <USER_STARTUP_COMMANDS>[]</USER_STARTUP_COMMANDS>
+      <HOT_RELOAD_MODULE_NAME>entry</HOT_RELOAD_MODULE_NAME>
+      <method v="2">
+        <option name="Build.Hvigor.HotReloadBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo [clean]" type="HvigorRunConfiguration" factoryName="HvigorRunConfiguration" temporary="true">
+      <option name="applicationParameters" value="clean" />
+      <option name="nodeInterpreter" value="$USER_HOME$/tools/nodejs/bin" />
+      <option name="scriptFile" value="$USER_HOME$/.hvigor/project_caches/30a86997147e3e23db0809271b00bce5/workspace/node_modules/@ohos/hvigor/bin/hvigor.js" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Demo [clean,assembleHap]" type="HvigorRunConfiguration" factoryName="HvigorRunConfiguration" temporary="true">
+      <option name="applicationParameters" value="clean --mode module -p product=default assembleHap" />
+      <option name="nodeInterpreter" value="$USER_HOME$/tools/nodejs/bin" />
+      <option name="scriptFile" value="$USER_HOME$/.hvigor/project_caches/30a86997147e3e23db0809271b00bce5/workspace/node_modules/@ohos/hvigor/bin/hvigor.js" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="entry" type="OhosDebugTask" factoryName="OpenHarmony App">
+      <SYMBOL_DIRS>[]</SYMBOL_DIRS>
+      <MODULE_NAME>entry</MODULE_NAME>
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <REINSTALL_APPLICATION>false</REINSTALL_APPLICATION>
+      <DEBUGGER_TYPE>Detect Automatically</DEBUGGER_TYPE>
+      <MULTI_HAP_MODULE_DATA>[]</MULTI_HAP_MODULE_DATA>
+      <SHOW_STATIC_VARIABLES>true</SHOW_STATIC_VARIABLES>
+      <LOGGING_TARGET_CHANNELS />
+      <ASAN_ENABLE_DATA>false</ASAN_ENABLE_DATA>
+      <USER_POST_ATTACH_COMMANDS>[]</USER_POST_ATTACH_COMMANDS>
+      <USER_STARTUP_COMMANDS>[]</USER_STARTUP_COMMANDS>
+      <method v="2">
+        <option name="Build.Hvigor.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Hvigor.Demo [clean]" />
+        <item itemvalue="Hvigor.Demo [clean]" />
+        <item itemvalue="Hvigor.Demo [clean,assembleHap]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
